@@ -1,3 +1,3 @@
 ^!p:: ; Ctrl+Alt+P
-Run, /home/edhkm/edliu/ ... /python "/home/edhkm/edliu/ ... /run.py"
+Run, \\wsl.localhost\Ubuntu\home\edhkm\edliu\support-resistance-detector\venv\bin\python ""\\wsl.localhost\Ubuntu\home\edhkm\edliu\support-resistance-detector\run.py""
 return
